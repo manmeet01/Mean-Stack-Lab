@@ -1,0 +1,21 @@
+{
+  "name": "mean_lab",
+  "version": "1.0.0",
+  "description": "example 1 for MEAN stack",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "MEAN",
+    "MongoDB",
+    "Expresss",
+    "Angular",
+    "Nodejs"
+  ],
+  "author": "Manmeet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
